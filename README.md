@@ -9,6 +9,8 @@ When the transparencies s1,s2 are stacked together then we can see combines shar
 Logically stacking of these s1 and s2 is equal to bitwise or of them.
 
 **Three different files are written :** 
-**main.m -** Loads the image into matrix and cnverts it into black and white image
+**main.m -** Loads the image into matrix and cnverts it into black and white image.
+
 **visual.m -** Function to form two shares.
-**share.m -** It output share1,share2 for each pixel randomly(output will be 2*2 matrix)
+
+**share.m -** It output share1,share2 for each pixel randomly(output will be 2*2 matrix).
